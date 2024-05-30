@@ -1,0 +1,1 @@
+export {fetchContacts,addContact,deleteContact} from './contactsApi'
